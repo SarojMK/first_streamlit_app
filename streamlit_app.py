@@ -1,8 +1,8 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner
+streamlit.title('My Parents New Healthy Diner')
 
-BreakFast Menu
+streamlit.header(BreakFast Menu')
 
-Idly, Sambar
-Dosa, Chutny')
+streamlit.text(Idly, Sambar')
+streamlit.text(Dosa, Chutny')
